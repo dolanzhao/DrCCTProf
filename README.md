@@ -1,5 +1,7 @@
 # DrCCTProf
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/696979ad8dff44c792632845a28cd2cf)](https://app.codacy.com/manual/dolanzhao/DrCCTProf_SC20?utm_source=github.com&utm_medium=referral&utm_content=dolanzhao/DrCCTProf_SC20&utm_campaign=Badge_Grade_Dashboard)
+
 ## Instructions for building DrCCTProf
 
 ### Linux
